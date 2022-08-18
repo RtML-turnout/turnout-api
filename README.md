@@ -2,7 +2,10 @@
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-## Endpoints:
-
-https://my-json-server.typicode.com/RtML-turnout/turnout-api/parameters
+## Endpoint -db:
 https://my-json-server.typicode.com/RtML-turnout/turnout-api/db
+
+## Endpoint -parameters:
+https://my-json-server.typicode.com/RtML-turnout/turnout-api/parameters
+
+

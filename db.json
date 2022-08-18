@@ -1,0 +1,32 @@
+{
+  "parameters": [
+    {
+      "name": "Hluk na výhybce",
+      "id": "parameter1",
+      "limits": [
+        0.126, 0.2333, 0.3405, 0.4477, 0.555, 0.6623, 0.7695, 0.8768, 0.8768,
+        0.984
+      ],
+      "desc": "Lorem ipsum"
+    },
+    {
+      "name": "Vibrace na výhybce",
+      "id": "parameter2",
+      "limits": [
+        0.126, 0.2333, 0.3405, 0.4477, 0.555, 0.6623, 0.7695, 0.8768, 0.8768,
+        0.984
+      ],
+      "desc": "Dolor sit"
+    },
+    {
+      "name": "Vibrace na výhysacbce",
+      "id": "parameter3",
+      "limits": [
+        0.126, 0.2333, 0.3405, 0.4477, 0.555, 0.6623, 0.7695, 0.8768, 0.8768,
+        0.984
+      ],
+      "desc": "Amet, consectetur"
+    }
+  ],
+  "turnouts": [{ "id": 1 }]
+}

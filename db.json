@@ -1,6 +1,15 @@
 {
   "parameters": [
     {
+      "name": "1",
+      "id": "1",
+      "limits": [
+        0.126, 0.2333, 0.3405, 0.4477, 0.555, 0.6623, 0.7695, 0.8768, 0.8768,
+        0.984
+      ],
+      "desc": "Testovací parameter"
+    },
+    {
       "name": "Hluk na výhybce",
       "id": "parameter1",
       "limits": [
@@ -28,5 +37,5 @@
       "desc": "Amet, consectetur"
     }
   ],
-  "turnouts": [{ "id": 1 },{ "id": 2 }]
+  "turnouts": [{ "id": 1 }, { "id": 2 }]
 }

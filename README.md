@@ -1,7 +1,3 @@
-## Try it
-
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
-
 ## Endpoints list typicode page
 https://my-json-server.typicode.com/u-lonsmim1/turnout-api
 

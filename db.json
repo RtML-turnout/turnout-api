@@ -211,5 +211,94 @@
       ],
       "desc": "Amet, consectetur"
     }
+  ],
+  "eventrecords": [
+    {
+      "id": "eventrecord0",
+      "initiator": "Systém",
+      "eventType": "import",
+      "eventData": {
+        "detail": [
+          {
+            "importName": "IDvýhybky_DDMMYYYY_HHMMSSs.txt",
+            "importStatus": "OK"
+          }
+        ]
+      },
+      "timeStamp": "2022-08-25T07:33:02.050Z"
+    },
+    {
+      "id": "eventrecord1",
+      "initiator": "Uživatel",
+      "eventType": "add-turnout",
+      "eventData": {
+        "id": "IDKB_ASDASD_18"
+      },
+      "timeStamp": "2022-08-25T07:33:02.050Z"
+    },
+    {
+      "id": "eventrecord2",
+      "initiator": "Uživatel",
+      "eventType": "edit-parameter",
+      "eventData": {
+        "name": "parameter1",
+        "new": "Hluk"
+      },
+      "timeStamp": "2022-08-25T07:33:02.050Z"
+    }
+  ],
+  "options": {
+    "dataSource": {
+      "path": "https://",
+      "user": "novak",
+      "password": ""
+    },
+    "cycleSettings": {
+      "period": 600,
+      "days": 20
+    }
+  },
+  "turnoutshistory": [
+    {
+      "turnoutId": "IDKB_ASDASD_0",
+      "historyData": [
+        {
+          "timeStamp": "2022-08-25T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.16
+            },
+            {
+              "id": "parameter2",
+              "value": 0.36
+            },
+            {
+              "id": "parameter3",
+              "value": 0.86
+            }
+          ],
+          "result": 0.86
+        },
+        {
+          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.16
+            },
+            {
+              "id": "parameter2",
+              "value": 0.36
+            },
+            {
+              "id": "parameter3",
+              "value": 0.86
+            }
+          ],
+          "result": 0.86
+        }
+      ]
+    }
   ]
 }

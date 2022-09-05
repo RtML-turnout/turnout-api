@@ -219,11 +219,101 @@
             },
             {
               "id": "parameter2",
-              "value": 0.36
+              "value": 0.16
             },
             {
               "id": "parameter3",
               "value": 0.86
+            }
+          ],
+          "result": 0.86
+        },
+        {
+          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.16
+            },
+            {
+              "id": "parameter2",
+              "value": 0.86
+            },
+            {
+              "id": "parameter3",
+              "value": 0.86
+            }
+          ],
+          "result": 0.86
+        },
+        {
+          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.36
+            },
+            {
+              "id": "parameter2",
+              "value": 0.46
+            },
+            {
+              "id": "parameter3",
+              "value": 0.76
+            }
+          ],
+          "result": 0.86
+        },
+        {
+          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.26
+            },
+            {
+              "id": "parameter2",
+              "value": 0.46
+            },
+            {
+              "id": "parameter3",
+              "value": 0.66
+            }
+          ],
+          "result": 0.86
+        },
+        {
+          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.96
+            },
+            {
+              "id": "parameter2",
+              "value": 0.16
+            },
+            {
+              "id": "parameter3",
+              "value": 0.76
+            }
+          ],
+          "result": 0.86
+        },
+        {
+          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "parameters": [
+            {
+              "id": "parameter1",
+              "value": 0.06
+            },
+            {
+              "id": "parameter2",
+              "value": 0.36
+            },
+            {
+              "id": "parameter3",
+              "value": 0.83
             }
           ],
           "result": 0.86

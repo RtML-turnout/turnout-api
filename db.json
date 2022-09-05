@@ -249,9 +249,7 @@
   ],
   "options": {
     "dataSource": {
-      "path": "https://",
-      "user": "novak",
-      "password": ""
+      "path": "https://"
     },
     "cycleSettings": {
       "period": 600,
@@ -261,137 +259,6 @@
   "turnoutshistory": [
     {
       "id": "IDKB_ASDASD_0",
-      "data": [
-        {
-          "timeStamp": "2022-08-25T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.16
-            },
-            {
-              "id": "parameter2",
-              "value": 0.36
-            },
-            {
-              "id": "parameter3",
-              "value": 0.86
-            }
-          ],
-          "result": 0.86
-        },
-        {
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.166
-            },
-            {
-              "id": "parameter2",
-              "value": 0.37
-            },
-            {
-              "id": "parameter3",
-              "value": 0.87
-            }
-          ],
-          "result": 0.86
-        },
-        {
-          "timeStamp": "2022-08-27T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.26
-            },
-            {
-              "id": "parameter2",
-              "value": 0.38
-            },
-            {
-              "id": "parameter3",
-              "value": 0.89
-            }
-          ],
-          "result": 0.86
-        },
-        {
-          "timeStamp": "2022-08-28T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.46
-            },
-            {
-              "id": "parameter2",
-              "value": 0.38
-            },
-            {
-              "id": "parameter3",
-              "value": 0.89
-            }
-          ],
-          "result": 0.86
-        },
-        {
-          "timeStamp": "2022-08-29T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.2
-            },
-            {
-              "id": "parameter2",
-              "value": 0.38
-            },
-            {
-              "id": "parameter3",
-              "value": 0.39
-            }
-          ],
-          "result": 0.86
-        },
-        {
-          "timeStamp": "2022-08-30T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.51
-            },
-            {
-              "id": "parameter2",
-              "value": 0.38
-            },
-            {
-              "id": "parameter3",
-              "value": 0.69
-            }
-          ],
-          "result": 0.86
-        },
-        {
-          "timeStamp": "2022-08-31T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.22
-            },
-            {
-              "id": "parameter2",
-              "value": 0.79
-            },
-            {
-              "id": "parameter3",
-              "value": 0.89
-            }
-          ],
-          "result": 0.86
-        }
-      ]
-    },
-    {
-      "id": "IDKB_ASDASD_1",
       "data": [
         {
           "timeStamp": "2022-08-25T07:33:02.050Z",

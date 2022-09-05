@@ -2,142 +2,72 @@
   "turnouts": [
     {
       "id": "IDKB_ASDASD_0",
-      "name": "Výhybka 0",
-      "address": "Pardubice",
-      "lonLat": [15, 49],
+      "name": "Hradec Králové hlavní nádraží",
+      "address": "Riegrovo nám., 500 02 Hradec Králové",
+      "lonLat": [15.810209512710587, 50.21456853709611],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_1",
-      "name": "Výhybka 1",
-      "address": "Pardubice",
-      "lonLat": [15.05, 49.05],
+      "name": "Březhrad",
+      "address": "Březhrad, 503 32 Hradec Králové",
+      "lonLat": [15.795671939849894, 50.17877194458296],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_2",
-      "name": "Výhybka 2",
-      "address": "Pardubice",
-      "lonLat": [15.1, 49.1],
+      "name": "Nádraží Náchod",
+      "address": "Kladská 128, 547 01 Náchod",
+      "lonLat": [16.171593388958943, 50.4174380781177],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_3",
-      "name": "Výhybka 3",
-      "address": "Pardubice",
-      "lonLat": [15.15, 49.15],
+      "name": "Česká Skalice",
+      "address": "Nádražní 846, 552 03 Česká Skalice",
+      "lonLat": [16.053930243893674, 50.39524116067892],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_4",
-      "name": "Výhybka 4",
-      "address": "Pardubice",
-      "lonLat": [15.2, 49.2],
+      "name": "Jaroměř",
+      "address": "Nádražní, 551 01 Jaroměř",
+      "lonLat": [15.909933833046058, 50.3420097891281],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_5",
-      "name": "Výhybka 5",
-      "address": "Pardubice",
-      "lonLat": [15.25, 49.25],
+      "name": "České Budějovice",
+      "address": "Nádražní, 370 01 České Budějovice",
+      "lonLat": [14.4885776318742, 48.97494987233219],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_6",
-      "name": "Výhybka 6",
-      "address": "Pardubice",
-      "lonLat": [15.3, 49.3],
+      "name": "Zlín střed",
+      "address": "Trávník 543, 760 01 Zlín",
+      "lonLat": [17.65847746936202, 49.2263530341358],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_7",
-      "name": "Výhybka 7",
-      "address": "Pardubice",
-      "lonLat": [15.35, 49.35],
+      "name": "Brno hlavní nádraží",
+      "address": "602 00 Brno-střed",
+      "lonLat": [16.613086252163935, 49.191038022677844],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_8",
-      "name": "Výhybka 8",
-      "address": "Pardubice",
-      "lonLat": [15.4, 49.4],
+      "name": "Pardubice hlavní nádraží",
+      "address": "nám. Jana Pernera 2561, 530 02 Pardubice I-Zelené Předměstí",
+      "lonLat": [15.756066827725462, 50.031640055727905],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     },
     {
       "id": "IDKB_ASDASD_9",
-      "name": "Výhybka 9",
-      "address": "Pardubice",
-      "lonLat": [15.45, 49.45],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_10",
-      "name": "Výhybka 10",
-      "address": "Pardubice",
-      "lonLat": [15.5, 49.5],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_11",
-      "name": "Výhybka 11",
-      "address": "Pardubice",
-      "lonLat": [15.55, 49.55],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_12",
-      "name": "Výhybka 12",
-      "address": "Pardubice",
-      "lonLat": [15.6, 49.6],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_13",
-      "name": "Výhybka 13",
-      "address": "Pardubice",
-      "lonLat": [15.65, 49.65],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_14",
-      "name": "Výhybka 14",
-      "address": "Pardubice",
-      "lonLat": [15.7, 49.7],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_15",
-      "name": "Výhybka 15",
-      "address": "Pardubice",
-      "lonLat": [15.75, 49.75],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_16",
-      "name": "Výhybka 16",
-      "address": "Pardubice",
-      "lonLat": [15.8, 49.8],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_17",
-      "name": "Výhybka 17",
-      "address": "Pardubice",
-      "lonLat": [15.85, 49.85],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_18",
-      "name": "Výhybka 18",
-      "address": "Pardubice",
-      "lonLat": [15.9, 49.9],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
-    },
-    {
-      "id": "IDKB_ASDASD_19",
-      "name": "Výhybka 19",
-      "address": "Pardubice",
-      "lonLat": [15.95, 49.95],
+      "name": "Praha hlavní nádraží ",
+      "address": "Nové Město, 110 00 Praha 1",
+      "lonLat": [14.43629124636561, 50.081593552696376],
       "timeStamp": "2022-08-25T07:33:02.050Z"
     }
   ],

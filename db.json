@@ -174,139 +174,76 @@
   "turnoutshistory": [
     {
       "id": "IDKB_ASDASD_0",
-      "data": [
+      "rows": [
         {
           "id": "0",
-          "timeStamp": "2022-08-25T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.16
-            },
-            {
-              "id": "parameter2",
-              "value": 0.36
-            },
-            {
-              "id": "parameter3",
-              "value": 0.86
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "0",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         },
         {
           "id": "1",
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.16
-            },
-            {
-              "id": "parameter2",
-              "value": 0.16
-            },
-            {
-              "id": "parameter3",
-              "value": 0.86
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "1",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         },
         {
           "id": "2",
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.16
-            },
-            {
-              "id": "parameter2",
-              "value": 0.86
-            },
-            {
-              "id": "parameter3",
-              "value": 0.86
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "2",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         },
         {
           "id": "3",
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.36
-            },
-            {
-              "id": "parameter2",
-              "value": 0.46
-            },
-            {
-              "id": "parameter3",
-              "value": 0.76
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "3",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         },
         {
           "id": "4",
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.26
-            },
-            {
-              "id": "parameter2",
-              "value": 0.46
-            },
-            {
-              "id": "parameter3",
-              "value": 0.66
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "4",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         },
         {
           "id": "5",
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.96
-            },
-            {
-              "id": "parameter2",
-              "value": 0.16
-            },
-            {
-              "id": "parameter3",
-              "value": 0.76
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "5",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         },
         {
           "id": "6",
-          "timeStamp": "2022-08-26T07:33:02.050Z",
-          "parameters": [
-            {
-              "id": "parameter1",
-              "value": 0.06
-            },
-            {
-              "id": "parameter2",
-              "value": 0.36
-            },
-            {
-              "id": "parameter3",
-              "value": 0.83
-            }
-          ],
-          "result": 0.86
+          "row": {
+            "id": "6",
+            "timeStamp": "2022-08-25T07:33:02.050Z",
+            "parameter1": 0.16,
+            "parameter2": 0.21,
+            "parameter3": 0.65
+          }
         }
       ]
     }

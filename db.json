@@ -176,14 +176,14 @@
       "id": "IDKB_ASDASD_0",
       "rows": [
         {
-          "id": "0",
+          "id": 1,
           "timeStamp": "2022-08-25T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,
           "parameter3": 0.65
         },
         {
-          "id": "1",
+          "id": 2,
           "timeStamp": "2022-08-26T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,
@@ -191,35 +191,35 @@
         },
 
         {
-          "id": "2",
+          "id": 3,
           "timeStamp": "2022-08-27T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,
           "parameter3": 0.65
         },
         {
-          "id": "3",
+          "id": 4,
           "timeStamp": "2022-08-28T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,
           "parameter3": 0.65
         },
         {
-          "id": "4",
+          "id": 5,
           "timeStamp": "2022-08-29T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,
           "parameter3": 0.65
         },
         {
-          "id": "5",
+          "id": 6,
           "timeStamp": "2022-08-30T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,
           "parameter3": 0.65
         },
         {
-          "id": "6",
+          "id": 7,
           "timeStamp": "2022-08-31T07:33:02.050Z",
           "parameter1": 0.16,
           "parameter2": 0.21,

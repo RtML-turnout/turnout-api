@@ -5,70 +5,70 @@
       "name": "Hradec Králové hlavní nádraží",
       "address": "Riegrovo nám., 500 02 Hradec Králové",
       "lonLat": [15.810209512710587, 50.21456853709611],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_1",
       "name": "Březhrad",
       "address": "Březhrad, 503 32 Hradec Králové",
       "lonLat": [15.795671939849894, 50.17877194458296],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_2",
       "name": "Nádraží Náchod",
       "address": "Kladská 128, 547 01 Náchod",
       "lonLat": [16.171593388958943, 50.4174380781177],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_3",
       "name": "Česká Skalice",
       "address": "Nádražní 846, 552 03 Česká Skalice",
       "lonLat": [16.053930243893674, 50.39524116067892],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_4",
       "name": "Jaroměř",
       "address": "Nádražní, 551 01 Jaroměř",
       "lonLat": [15.909933833046058, 50.3420097891281],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_5",
       "name": "České Budějovice",
       "address": "Nádražní, 370 01 České Budějovice",
       "lonLat": [14.4885776318742, 48.97494987233219],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_6",
       "name": "Zlín střed",
       "address": "Trávník 543, 760 01 Zlín",
       "lonLat": [17.65847746936202, 49.2263530341358],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_7",
       "name": "Brno hlavní nádraží",
       "address": "602 00 Brno-střed",
       "lonLat": [16.613086252163935, 49.191038022677844],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_8",
       "name": "Pardubice hlavní nádraží",
       "address": "nám. Jana Pernera 2561, 530 02 Pardubice I-Zelené Předměstí",
       "lonLat": [15.756066827725462, 50.031640055727905],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_9",
       "name": "Praha hlavní nádraží ",
       "address": "Nové Město, 110 00 Praha 1",
       "lonLat": [14.43629124636561, 50.081593552696376],
-      "timeStamp": 1661412782
+      "timeStamp": 1661931182000
     }
   ],
 
@@ -138,7 +138,7 @@
           }
         ]
       },
-      "timeStamp": 1661412782
+      "timeStamp": 1661412782000
     },
     {
       "id": "eventrecord1",
@@ -147,7 +147,7 @@
       "eventData": {
         "id": "IDKB_ASDASD_18"
       },
-      "timeStamp": 1661412782
+      "timeStamp": 1661412782000
     },
     {
       "id": "eventrecord2",
@@ -157,7 +157,7 @@
         "name": "parameter1",
         "new": "Hluk"
       },
-      "timeStamp": 1661412782
+      "timeStamp": 1661412782000
     }
   ],
   "options": {
@@ -177,7 +177,7 @@
       "rows": [
         {
           "id": 1,
-          "timeStamp": 1661412782,
+          "timeStamp": 1661412782000,
           "parameter1": 0.18,
           "parameter2": 0.21,
           "parameter3": 0.65,
@@ -185,7 +185,7 @@
         },
         {
           "id": 2,
-          "timeStamp": 1661499182,
+          "timeStamp": 1661499182000,
           "parameter1": 0.09,
           "parameter2": 0.17,
           "parameter3": 0.13,
@@ -194,7 +194,7 @@
 
         {
           "id": 3,
-          "timeStamp": 1661585582,
+          "timeStamp": 1661585582000,
           "parameter1": 0.14,
           "parameter2": 0.15,
           "parameter3": 0.24,
@@ -202,7 +202,7 @@
         },
         {
           "id": 4,
-          "timeStamp": 1661671982,
+          "timeStamp": 1661671982000,
           "parameter1": 0.11,
           "parameter2": 0.22,
           "parameter3": 0.3,
@@ -210,7 +210,7 @@
         },
         {
           "id": 5,
-          "timeStamp": 1661758382,
+          "timeStamp": 1661758382000,
           "parameter1": 0.28,
           "parameter2": 0.19,
           "parameter3": 0.12,
@@ -218,7 +218,7 @@
         },
         {
           "id": 6,
-          "timeStamp": 1661844782,
+          "timeStamp": 1661844782000,
           "parameter1": 0.27,
           "parameter2": 0.28,
           "parameter3": 0.32,
@@ -226,7 +226,7 @@
         },
         {
           "id": 7,
-          "timeStamp": 1661931182,
+          "timeStamp": 1661931182000,
           "parameter1": 0.41,
           "parameter2": 0.45,
           "parameter3": 0.5,

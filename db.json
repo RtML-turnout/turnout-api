@@ -178,58 +178,58 @@
         {
           "id": 1,
           "timeStamp": 1661412782000,
-          "parameter1": 0.18,
+          "parameter1": 0.11,
           "parameter2": 0.21,
-          "parameter3": 0.65,
+          "parameter3": 0.35,
           "result": 0.65
         },
         {
           "id": 2,
           "timeStamp": 1661499182000,
-          "parameter1": 0.09,
-          "parameter2": 0.17,
-          "parameter3": 0.13,
+          "parameter1": 0.23,
+          "parameter2": 0.37,
+          "parameter3": 0.43,
           "result": 0.17
         },
 
         {
           "id": 3,
           "timeStamp": 1661585582000,
-          "parameter1": 0.14,
-          "parameter2": 0.15,
-          "parameter3": 0.24,
+          "parameter1": 0.35,
+          "parameter2": 0.45,
+          "parameter3": 0.54,
           "result": 0.24
         },
         {
           "id": 4,
           "timeStamp": 1661671982000,
-          "parameter1": 0.11,
-          "parameter2": 0.22,
-          "parameter3": 0.3,
+          "parameter1": 0.42,
+          "parameter2": 0.52,
+          "parameter3": 0.63,
           "result": 0.22
         },
         {
           "id": 5,
           "timeStamp": 1661758382000,
-          "parameter1": 0.28,
-          "parameter2": 0.19,
-          "parameter3": 0.12,
+          "parameter1": 0.51,
+          "parameter2": 0.69,
+          "parameter3": 0.72,
           "result": 0.28
         },
         {
           "id": 6,
           "timeStamp": 1661844782000,
-          "parameter1": 0.27,
-          "parameter2": 0.28,
-          "parameter3": 0.32,
+          "parameter1": 0.6,
+          "parameter2": 0.78,
+          "parameter3": 0.82,
           "result": 0.32
         },
         {
           "id": 7,
           "timeStamp": 1661931182000,
-          "parameter1": 0.41,
-          "parameter2": 0.45,
-          "parameter3": 0.5,
+          "parameter1": 0.78,
+          "parameter2": 0.85,
+          "parameter3": 0.95,
           "result": 0.45
         }
       ]

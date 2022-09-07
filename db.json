@@ -5,70 +5,70 @@
       "name": "Hradec Králové hlavní nádraží",
       "address": "Riegrovo nám., 500 02 Hradec Králové",
       "lonLat": [15.810209512710587, 50.21456853709611],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_1",
       "name": "Březhrad",
       "address": "Březhrad, 503 32 Hradec Králové",
       "lonLat": [15.795671939849894, 50.17877194458296],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_2",
       "name": "Nádraží Náchod",
       "address": "Kladská 128, 547 01 Náchod",
       "lonLat": [16.171593388958943, 50.4174380781177],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_3",
       "name": "Česká Skalice",
       "address": "Nádražní 846, 552 03 Česká Skalice",
       "lonLat": [16.053930243893674, 50.39524116067892],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_4",
       "name": "Jaroměř",
       "address": "Nádražní, 551 01 Jaroměř",
       "lonLat": [15.909933833046058, 50.3420097891281],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_5",
       "name": "České Budějovice",
       "address": "Nádražní, 370 01 České Budějovice",
       "lonLat": [14.4885776318742, 48.97494987233219],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_6",
       "name": "Zlín střed",
       "address": "Trávník 543, 760 01 Zlín",
       "lonLat": [17.65847746936202, 49.2263530341358],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_7",
       "name": "Brno hlavní nádraží",
       "address": "602 00 Brno-střed",
       "lonLat": [16.613086252163935, 49.191038022677844],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_8",
       "name": "Pardubice hlavní nádraží",
       "address": "nám. Jana Pernera 2561, 530 02 Pardubice I-Zelené Předměstí",
       "lonLat": [15.756066827725462, 50.031640055727905],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     },
     {
       "id": "IDKB_ASDASD_9",
       "name": "Praha hlavní nádraží ",
       "address": "Nové Město, 110 00 Praha 1",
       "lonLat": [14.43629124636561, 50.081593552696376],
-      "timeStamp": 1661931182
+      "timeStamp": 1661412782
     }
   ],
 

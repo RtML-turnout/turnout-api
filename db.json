@@ -181,7 +181,7 @@
           "parameter1": 0.11,
           "parameter2": 0.21,
           "parameter3": 0.35,
-          "result": 0.65
+          "result": 0.35
         },
         {
           "id": 2,
@@ -189,7 +189,7 @@
           "parameter1": 0.23,
           "parameter2": 0.37,
           "parameter3": 0.43,
-          "result": 0.17
+          "result": 0.43
         },
 
         {
@@ -198,7 +198,7 @@
           "parameter1": 0.35,
           "parameter2": 0.45,
           "parameter3": 0.54,
-          "result": 0.24
+          "result": 0.54
         },
         {
           "id": 4,
@@ -206,7 +206,7 @@
           "parameter1": 0.42,
           "parameter2": 0.52,
           "parameter3": 0.63,
-          "result": 0.22
+          "result": 0.63
         },
         {
           "id": 5,
@@ -214,7 +214,7 @@
           "parameter1": 0.51,
           "parameter2": 0.69,
           "parameter3": 0.72,
-          "result": 0.28
+          "result": 0.72
         },
         {
           "id": 6,
@@ -222,7 +222,7 @@
           "parameter1": 0.6,
           "parameter2": 0.78,
           "parameter3": 0.82,
-          "result": 0.32
+          "result": 0.82
         },
         {
           "id": 7,
@@ -230,7 +230,7 @@
           "parameter1": 0.78,
           "parameter2": 0.85,
           "parameter3": 0.95,
-          "result": 0.45
+          "result": 0.95
         }
       ]
     }

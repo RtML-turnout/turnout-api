@@ -5,70 +5,70 @@
       "name": "Hradec Králové hlavní nádraží",
       "address": "Riegrovo nám., 500 02 Hradec Králové",
       "lonLat": [15.810209512710587, 50.21456853709611],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_1",
       "name": "Březhrad",
       "address": "Březhrad, 503 32 Hradec Králové",
       "lonLat": [15.795671939849894, 50.17877194458296],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_2",
       "name": "Nádraží Náchod",
       "address": "Kladská 128, 547 01 Náchod",
       "lonLat": [16.171593388958943, 50.4174380781177],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_3",
       "name": "Česká Skalice",
       "address": "Nádražní 846, 552 03 Česká Skalice",
       "lonLat": [16.053930243893674, 50.39524116067892],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_4",
       "name": "Jaroměř",
       "address": "Nádražní, 551 01 Jaroměř",
       "lonLat": [15.909933833046058, 50.3420097891281],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_5",
       "name": "České Budějovice",
       "address": "Nádražní, 370 01 České Budějovice",
       "lonLat": [14.4885776318742, 48.97494987233219],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_6",
       "name": "Zlín střed",
       "address": "Trávník 543, 760 01 Zlín",
       "lonLat": [17.65847746936202, 49.2263530341358],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_7",
       "name": "Brno hlavní nádraží",
       "address": "602 00 Brno-střed",
       "lonLat": [16.613086252163935, 49.191038022677844],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_8",
       "name": "Pardubice hlavní nádraží",
       "address": "nám. Jana Pernera 2561, 530 02 Pardubice I-Zelené Předměstí",
       "lonLat": [15.756066827725462, 50.031640055727905],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     },
     {
       "id": "IDKB_ASDASD_9",
       "name": "Praha hlavní nádraží ",
       "address": "Nové Město, 110 00 Praha 1",
       "lonLat": [14.43629124636561, 50.081593552696376],
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661931182
     }
   ],
 
@@ -138,7 +138,7 @@
           }
         ]
       },
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661412782
     },
     {
       "id": "eventrecord1",
@@ -147,7 +147,7 @@
       "eventData": {
         "id": "IDKB_ASDASD_18"
       },
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661412782
     },
     {
       "id": "eventrecord2",
@@ -157,7 +157,7 @@
         "name": "parameter1",
         "new": "Hluk"
       },
-      "timeStamp": "2022-08-25T07:33:02.050Z"
+      "timeStamp": 1661412782
     }
   ],
   "options": {
@@ -177,53 +177,60 @@
       "rows": [
         {
           "id": 1,
-          "timeStamp": "2022-08-25T07:33:02.050Z",
+          "timeStamp": 1661412782,
           "parameter1": 0.18,
           "parameter2": 0.21,
-          "parameter3": 0.65
+          "parameter3": 0.65,
+          "result": 0.65
         },
         {
           "id": 2,
-          "timeStamp": "2022-08-26T07:33:02.050Z",
+          "timeStamp": 1661499182,
           "parameter1": 0.09,
           "parameter2": 0.17,
-          "parameter3": 0.13
+          "parameter3": 0.13,
+          "result": 0.17
         },
 
         {
           "id": 3,
-          "timeStamp": "2022-08-27T07:33:02.050Z",
+          "timeStamp": 1661585582,
           "parameter1": 0.14,
           "parameter2": 0.15,
-          "parameter3": 0.24
+          "parameter3": 0.24,
+          "result": 0.24
         },
         {
           "id": 4,
-          "timeStamp": "2022-08-28T07:33:02.050Z",
+          "timeStamp": 1661671982,
           "parameter1": 0.11,
           "parameter2": 0.22,
-          "parameter3": 0.3
+          "parameter3": 0.3,
+          "result": 0.22
         },
         {
           "id": 5,
-          "timeStamp": "2022-08-29T07:33:02.050Z",
+          "timeStamp": 1661758382,
           "parameter1": 0.28,
           "parameter2": 0.19,
-          "parameter3": 0.12
+          "parameter3": 0.12,
+          "result": 0.28
         },
         {
           "id": 6,
-          "timeStamp": "2022-08-30T07:33:02.050Z",
+          "timeStamp": 1661844782,
           "parameter1": 0.27,
           "parameter2": 0.28,
-          "parameter3": 0.32
+          "parameter3": 0.32,
+          "result": 0.32
         },
         {
           "id": 7,
-          "timeStamp": "2022-08-31T07:33:02.050Z",
+          "timeStamp": 1661931182,
           "parameter1": 0.41,
           "parameter2": 0.45,
-          "parameter3": 0.5
+          "parameter3": 0.5,
+          "result": 0.45
         }
       ]
     }

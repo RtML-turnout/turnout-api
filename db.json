@@ -131,6 +131,7 @@
       "initiator": "Systém",
       "eventType": "import",
       "eventData": {
+        "status": "všechny úspěšné",
         "detail": [
           {
             "importName": "IDvýhybky_DDMMYYYY_HHMMSSs.txt",

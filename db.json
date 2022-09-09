@@ -129,7 +129,7 @@
     {
       "id": "eventrecord0",
       "initiator": "Systém",
-      "eventType": "Import",
+      "eventType": "import",
       "eventData": {
         "status": "všechny úspěšné",
         "detail": [

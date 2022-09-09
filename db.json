@@ -155,7 +155,8 @@
       "initiator": "Uživatel",
       "eventType": "edit-parameter",
       "eventData": {
-        "name": "parameter1",
+        "id": "parameter1",
+        "name": "Hluk na výhybce",
         "new": "Hluk"
       },
       "timeStamp": 1661412782000

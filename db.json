@@ -161,11 +161,51 @@
     {
       "id": "eventrecord2",
       "initiator": "Uživatel",
+      "eventType": "edit-turnout",
+      "eventData": {
+        "id": "IDKB_ASDASD_8",
+        "form": "název",
+        "old_val": "Pardubice hlavní nádraží",
+        "new_val": "Pardubice - Rosice"
+      },
+      "timeStamp": 1661412782000
+    },
+    {
+      "id": "eventrecord3",
+      "initiator": "Uživatel",
+      "eventType": "del-turnout",
+      "eventData": {
+        "id": "IDKB_ASDASD_8"
+      },
+      "timeStamp": 1661412782000
+    },
+    {
+      "id": "eventrecord4",
+      "initiator": "Uživatel",
+      "eventType": "add-parameter",
+      "eventData": {
+        "id": "parameter1",
+        "new_val": "Hluk na výhybce"
+      },
+      "timeStamp": 1661412782000
+    },
+    {
+      "id": "eventrecord5",
+      "initiator": "Uživatel",
       "eventType": "edit-parameter",
       "eventData": {
         "id": "parameter1",
-        "name": "Hluk na výhybce",
-        "new": "Hluk"
+        "old_val": "Hluk na výhybce",
+        "new_val": "Hluk"
+      },
+      "timeStamp": 1661412782000
+    },
+    {
+      "id": "eventrecord6",
+      "initiator": "Uživatel",
+      "eventType": "del-parameter",
+      "eventData": {
+        "id": "parameter1"
       },
       "timeStamp": 1661412782000
     }

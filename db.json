@@ -134,7 +134,15 @@
         "status": "všechny úspěšné",
         "detail": [
           {
-            "importName": "IDvýhybky_DDMMYYYY_HHMMSSs.txt",
+            "importName": "IDvýhybky0_DDMMYYYY_HHMMSSs.txt",
+            "importStatus": "OK"
+          },
+          {
+            "importName": "IDvýhybky1_DDMMYYYY_HHMMSSs.txt",
+            "importStatus": "OK"
+          },
+          {
+            "importName": "IDvýhybky2_DDMMYYYY_HHMMSSs.txt",
             "importStatus": "OK"
           }
         ]

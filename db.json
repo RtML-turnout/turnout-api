@@ -131,7 +131,7 @@
       "initiator": "Systém",
       "eventType": "import",
       "eventData": {
-        "status": "všechny úspěšné",
+        "status": "Všechny úspěšné",
         "detail": [
           {
             "importName": "IDvýhybky0_DDMMYYYY_HHMMSSs.txt",
@@ -244,7 +244,7 @@
   "turnoutshistory": [
     {
       "id": "IDKB_ASDASD_0",
-      "rows": [
+      "cols": [
         {
           "id": 1,
           "timeStamp": 1661412782000,

@@ -74,7 +74,7 @@
 
   "parameters": [
     {
-      "name": "Hluk na výhybce",
+      "name": "Hluk",
       "id": "parameter1",
       "limits": [
         { "val": 0, "color": "#005897" },
@@ -91,7 +91,7 @@
       "desc": "Lorem ipsum"
     },
     {
-      "name": "Vibrace na výhybce",
+      "name": "Vibrace",
       "id": "parameter2",
       "limits": [
         { "val": 0, "color": "#005897" },
@@ -108,7 +108,7 @@
       "desc": "Dolor sit"
     },
     {
-      "name": "Vibrace na výhysacbce",
+      "name": "Emise",
       "id": "parameter3",
       "limits": [
         { "val": 0, "color": "#005897" },

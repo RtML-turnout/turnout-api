@@ -208,6 +208,26 @@
         "id": "parameter1"
       },
       "timeStamp": 1661412782000
+    },
+    {
+      "id": "eventrecord7",
+      "initiator": "Systém",
+      "eventType": "import-period",
+      "eventData": {
+        "old_val": 600,
+        "new_val": 700
+      },
+      "timeStamp": 1661412782000
+    },
+    {
+      "id": "eventrecord8",
+      "initiator": "Uživatel",
+      "eventType": "import-erasure",
+      "eventData": {
+        "old_val": 20,
+        "new_val": 30
+      },
+      "timeStamp": 1661412782000
     }
   ],
   "options": {

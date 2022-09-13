@@ -211,7 +211,7 @@
     },
     {
       "id": "eventrecord7",
-      "initiator": "Systém",
+      "initiator": "Uživatel",
       "eventType": "import-period",
       "eventData": {
         "old_val": 600,

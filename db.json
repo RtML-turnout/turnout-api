@@ -237,10 +237,10 @@
       "password": ""
     },
     "cycleSettings": {
-      "period": 600,
-      "days": 20
+      "loadingPeriod": 600,
+      "deletePeriod": 20
     },
-    "measurementErrors": {
+    "measurementerrors": {
       "total": 2
     }
   },

@@ -241,73 +241,71 @@
       "days": 20
     }
   },
-  "turnoutshistory": {
-    "errors": {
-      "total": 2
-    },
-    "measurement": [
-      {
-        "id": "IDKB_ASDASD_0",
-        "cols": [
-          {
-            "id": 1,
-            "timeStamp": 1661412782000,
-            "parameter1": 0.11,
-            "parameter2": 0.21,
-            "parameter3": 0.35,
-            "result": 0.35
-          },
-          {
-            "id": 2,
-            "timeStamp": 1661499182000,
-            "parameter1": 0.23,
-            "parameter2": 0.37,
-            "parameter3": 0.43,
-            "result": 0.43
-          },
+  "turnoutshistory": [
+    {
+      "id": "IDKB_ASDASD_0",
+      "cols": [
+        {
+          "id": 1,
+          "timeStamp": 1661412782000,
+          "parameter1": 0.11,
+          "parameter2": 0.21,
+          "parameter3": 0.35,
+          "result": 0.35
+        },
+        {
+          "id": 2,
+          "timeStamp": 1661499182000,
+          "parameter1": 0.23,
+          "parameter2": 0.37,
+          "parameter3": 0.43,
+          "result": 0.43
+        },
 
-          {
-            "id": 3,
-            "timeStamp": 1661585582000,
-            "parameter1": 0.35,
-            "parameter2": 0.45,
-            "parameter3": 0.54,
-            "result": 0.54
-          },
-          {
-            "id": 4,
-            "timeStamp": 1661671982000,
-            "parameter1": 0.42,
-            "parameter2": 0.52,
-            "parameter3": 0.63,
-            "result": 0.63
-          },
-          {
-            "id": 5,
-            "timeStamp": 1661758382000,
-            "parameter1": 0.51,
-            "parameter2": 0.69,
-            "parameter3": 0.72,
-            "result": 0.72
-          },
-          {
-            "id": 6,
-            "timeStamp": 1661844782000,
-            "parameter1": 0.6,
-            "parameter2": 0.78,
-            "parameter3": 0.82,
-            "result": 0.82
-          },
-          {
-            "id": 7,
-            "timeStamp": 1661931182000,
-            "parameter1": 0.78,
-            "parameter2": 0.85,
-            "parameter3": 0.95,
-            "result": 0.95
-          }
-        ]
-      }
-    ]
+        {
+          "id": 3,
+          "timeStamp": 1661585582000,
+          "parameter1": 0.35,
+          "parameter2": 0.45,
+          "parameter3": 0.54,
+          "result": 0.54
+        },
+        {
+          "id": 4,
+          "timeStamp": 1661671982000,
+          "parameter1": 0.42,
+          "parameter2": 0.52,
+          "parameter3": 0.63,
+          "result": 0.63
+        },
+        {
+          "id": 5,
+          "timeStamp": 1661758382000,
+          "parameter1": 0.51,
+          "parameter2": 0.69,
+          "parameter3": 0.72,
+          "result": 0.72
+        },
+        {
+          "id": 6,
+          "timeStamp": 1661844782000,
+          "parameter1": 0.6,
+          "parameter2": 0.78,
+          "parameter3": 0.82,
+          "result": 0.82
+        },
+        {
+          "id": 7,
+          "timeStamp": 1661931182000,
+          "parameter1": 0.78,
+          "parameter2": 0.85,
+          "parameter3": 0.95,
+          "result": 0.95
+        }
+      ]
+    }
+  ],
+  "measurementerrors": {
+    "total": 2
   }
 }

@@ -240,7 +240,7 @@
       "period": 600,
       "days": 20
     },
-    "measurementerrors": {
+    "measurementErrors": {
       "total": 2
     }
   },

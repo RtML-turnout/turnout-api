@@ -239,6 +239,9 @@
     "cycleSettings": {
       "period": 600,
       "days": 20
+    },
+    "measurementerrors": {
+      "total": 2
     }
   },
   "turnoutshistory": [
@@ -304,8 +307,5 @@
         }
       ]
     }
-  ],
-  "measurementerrors": {
-    "total": 2
-  }
+  ]
 }

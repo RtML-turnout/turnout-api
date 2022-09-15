@@ -240,7 +240,7 @@
       "loadingPeriod": 600,
       "deletePeriod": 20
     },
-    "measurementerrors": {
+    "measurementErrors": {
       "total": 2
     }
   },

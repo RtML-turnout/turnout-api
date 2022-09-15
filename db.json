@@ -231,7 +231,7 @@
     }
   ],
   "options": {
-    "dataSource": {
+    "sourceSettings": {
       "path": "https://",
       "user": "novak",
       "password": ""

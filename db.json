@@ -242,6 +242,21 @@
     },
     "measurementErrors": {
       "total": 2
+    },
+    "measurementsOptions":{
+        "defaultColor": "#009de0",
+        "defaultLimits": [
+          { "val": 0, "color": "#005897" },
+          { "val": 0.1, "color": "#0477B9" },
+          { "val": 0.2, "color": "#0487CD" },
+          { "val": 0.3, "color": "#0898E1" },
+          { "val": 0.4, "color": "#09A6EF" },
+          { "val": 0.5, "color": "#2BB3F2" },
+          { "val": 0.6, "color": "#4FC0F4" },
+          { "val": 0.7, "color": "#81D2F8" },
+          { "val": 0.8, "color": "#B3E4FB" },
+          { "val": 0.9, "color": "#E1F4FD" }
+        ]
     }
   },
   "turnoutshistory": [

@@ -246,46 +246,46 @@
     "measurementsOptions":{
         "defaultColor": "#009de0",
         "defaultLimits": [
-        {
-          val: 0,
-          color: '#002d40'
-        },
-        {
-          val: 0.1,
-          color: '#003c55'
-        },
-        {
-          val: 0.2,
-          color: '#004a6a'
-        },
-        {
-          val: 0.3,
-          color: '#005980'
-        },
-        {
-          val: 0.4,
-          color: '#006895'
-        },
-        {
-          val: 0.5,
-          color: '#0077aa'
-        },
-        {
-          val: 0.6,
-          color: '#0086bf'
-        },
-        {
-          val: 0.7,
-          color: '#0095d5'
-        },
-        {
-          val: 0.8,
-          color: '#00a4ea'
-        },
-        {
-          val: 0.9,
-          color: '#00b3ff'
-        }
+          {
+            "val": 0,
+            "color": "#002d40"
+          },
+          {
+            "val": 0.1,
+            "color": "#003c55"
+          },
+          {
+            "val": 0.2,
+            "color": "#004a6a"
+          },
+          {
+            "val": 0.3,
+            "color": "#005980"
+          },
+          {
+            "val": 0.4,
+            "color": "#006895"
+          },
+          {
+            "val": 0.5,
+            "color": "#0077aa"
+          },
+          {
+            "val": 0.6,
+            "color": "#0086bf"
+          },
+          {
+            "val": 0.7,
+            "color": "#0095d5"
+          },
+          {
+            "val": 0.8,
+            "color": "#00a4ea"
+          },
+          {
+            "val": 0.9,
+            "color": "#00b3ff"
+          }
         ]
     }
   },

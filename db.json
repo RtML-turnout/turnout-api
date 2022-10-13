@@ -62,16 +62,16 @@
       "name": "Vibrace",
       "id": "parameter2",
       "limits": [
-        { "val": 0, "color": "#005897" },
-        { "val": 0.126, "color": "#0477B9" },
-        { "val": 0.23333, "color": "#0487CD" },
-        { "val": 0.3405, "color": "#0898E1" },
-        { "val": 0.4477, "color": "#09A6EF" },
-        { "val": 0.555, "color": "#2BB3F2" },
-        { "val": 0.6623, "color": "#4FC0F4" },
-        { "val": 0.7695, "color": "#81D2F8" },
-        { "val": 0.8768, "color": "#B3E4FB" },
-        { "val": 0.984, "color": "#E1F4FD" }
+        { "val": 0, "color": "#000000" },
+        { "val": 0.126, "color": "#0000FF" },
+        { "val": 0.23333, "color": "#0080FF" },
+        { "val": 0.3405, "color": "#00FFFF" },
+        { "val": 0.4477, "color": "#00FF80" },
+        { "val": 0.555, "color": "#00FF00" },
+        { "val": 0.6623, "color": "#FFFF00" },
+        { "val": 0.7695, "color": "#FF8000" },
+        { "val": 0.8768, "color": "#FF0000" },
+        { "val": 0.984, "color": "#808080" }
       ],
       "desc": "Dolor sit"
     },

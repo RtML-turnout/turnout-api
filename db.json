@@ -67,7 +67,7 @@
         { "val": 0.23333, "color": "#0080FF" },
         { "val": 0.3405, "color": "#00FFFF" },
         { "val": 0.4477, "color": "#00FF80" },
-        { "val": 0.555, "color": "#00FF00" },
+        { "val": 0.555, "color": "#00FF00" },       
         { "val": 0.6623, "color": "#FFFF00" },
         { "val": 0.7695, "color": "#FF8000" },
         { "val": 0.8768, "color": "#FF0000" },
@@ -256,7 +256,7 @@
         {
           "timeStamp": 1661412782000,
           "result":{
-            "id":"parameter3",
+            "id":"parameter2",
             "value": 0.21
           },
           "parametersOfTheDay":[
@@ -273,7 +273,7 @@
         {
           "timeStamp": 1661499182000,
           "result":{
-            "id":"parameter3",
+            "id":"parameter2",
             "value": 0.37
           },
           "parametersOfTheDay":[
@@ -354,7 +354,7 @@
           "timeStamp": 1661844782000,
           "result":{
             "id":"parameter2",
-            "value": 0.88
+            "value": 0.85
           },
           "parametersOfTheDay":[
             {
@@ -363,7 +363,7 @@
             },
             {
               "id":"parameter2",
-              "value": 0.88
+              "value": 0.85
             },
             {
               "id":"parameter3",
@@ -384,7 +384,7 @@
             },
             {
               "id":"parameter2",
-              "value": 0.85
+              "value": 0.88
             },
             {
               "id":"parameter3",

@@ -79,16 +79,16 @@
       "name": "Emise",
       "id": "parameter3",
       "limits": [
-        { "val": 0, "color": "#005897" },
-        { "val": 0.126, "color": "#0477B9" },
-        { "val": 0.23333, "color": "#0487CD" },
-        { "val": 0.3405, "color": "#0898E1" },
-        { "val": 0.4477, "color": "#09A6EF" },
-        { "val": 0.555, "color": "#2BB3F2" },
-        { "val": 0.6623, "color": "#4FC0F4" },
-        { "val": 0.7695, "color": "#81D2F8" },
-        { "val": 0.8768, "color": "#B3E4FB" },
-        { "val": 0.984, "color": "#E1F4FD" }
+        { "val": 0, "color": "#380040" },
+        { "val": 0.126, "color": "#4b0055" },
+        { "val": 0.23333, "color": "#5e006a" },
+        { "val": 0.3405, "color": "#710080" },
+        { "val": 0.4477, "color": "#830095" },
+        { "val": 0.555, "color": "#9600aa" },
+        { "val": 0.6623, "color": "#a900bf" },
+        { "val": 0.7695, "color": "#bc00d5" },
+        { "val": 0.8768, "color": "#cf00ea" },
+        { "val": 0.984, "color": "#e100ff" }
       ],
       "desc": "Amet, consectetur"
     }

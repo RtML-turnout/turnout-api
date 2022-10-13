@@ -2,72 +2,40 @@
   "turnouts": [
     {
       "id": "IDKB_ASDASD_0",
-      "name": "Hradec Králové hlavní nádraží",
-      "address": "Riegrovo nám., 500 02 Hradec Králové",
+      "name": "Hradec Králové hl. n",
+      "address": "Riegrovo nám.",
       "lonLat": [15.810209512710587, 50.21456853709611],
       "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_1",
       "name": "Březhrad",
-      "address": "Březhrad, 503 32 Hradec Králové",
-      "lonLat": [15.795671939849894, 50.17877194458296],
+      "address": "Březhrad 3",
+      "lonLat": [
+        15.795671939849894,
+        50.17877194458296
+      ],
       "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_2",
       "name": "Nádraží Náchod",
-      "address": "Kladská 128, 547 01 Náchod",
+      "address": "Kladská",
       "lonLat": [16.171593388958943, 50.4174380781177],
-      "timeStamp": 1661931182000
-    },
-    {
-      "id": "IDKB_ASDASD_3",
-      "name": "Česká Skalice",
-      "address": "Nádražní 846, 552 03 Česká Skalice",
-      "lonLat": [16.053930243893674, 50.39524116067892],
-      "timeStamp": 1661931182000
-    },
-    {
-      "id": "IDKB_ASDASD_4",
-      "name": "Jaroměř",
-      "address": "Nádražní, 551 01 Jaroměř",
-      "lonLat": [15.909933833046058, 50.3420097891281],
       "timeStamp": 1661931182000
     },
     {
       "id": "IDKB_ASDASD_5",
       "name": "České Budějovice",
-      "address": "Nádražní, 370 01 České Budějovice",
+      "address": "Nádražní",
       "lonLat": [14.4885776318742, 48.97494987233219],
       "timeStamp": 1661931182000
     },
     {
-      "id": "IDKB_ASDASD_6",
-      "name": "Zlín střed",
-      "address": "Trávník 543, 760 01 Zlín",
-      "lonLat": [17.65847746936202, 49.2263530341358],
-      "timeStamp": 1661931182000
-    },
-    {
-      "id": "IDKB_ASDASD_7",
-      "name": "Brno hlavní nádraží",
-      "address": "602 00 Brno-střed",
-      "lonLat": [16.613086252163935, 49.191038022677844],
-      "timeStamp": 1661931182000
-    },
-    {
       "id": "IDKB_ASDASD_8",
-      "name": "Pardubice hlavní nádraží",
-      "address": "nám. Jana Pernera 2561, 530 02 Pardubice I-Zelené Předměstí",
+      "name": "Pardubice",
+      "address": "nám. Jana Pernera 2561",
       "lonLat": [15.756066827725462, 50.031640055727905],
-      "timeStamp": 1661931182000
-    },
-    {
-      "id": "IDKB_ASDASD_9",
-      "name": "Praha hlavní nádraží ",
-      "address": "Nové Město, 110 00 Praha 1",
-      "lonLat": [14.43629124636561, 50.081593552696376],
       "timeStamp": 1661931182000
     }
   ],
@@ -136,14 +104,6 @@
           {
             "importName": "IDvýhybky0_DDMMYYYY_HHMMSSs.txt",
             "importStatus": "OK"
-          },
-          {
-            "importName": "IDvýhybky1_DDMMYYYY_HHMMSSs.txt",
-            "importStatus": "OK"
-          },
-          {
-            "importName": "IDvýhybky2_DDMMYYYY_HHMMSSs.txt",
-            "importStatus": "OK"
           }
         ]
       },
@@ -154,7 +114,7 @@
       "initiator": "Uživatel",
       "eventType": "add-turnout",
       "eventData": {
-        "id": "IDKB_ASDASD_5"
+        "id": "IDKB_ASDASD_18"
       },
       "timeStamp": 1661412782000
     },
@@ -184,7 +144,7 @@
       "initiator": "Uživatel",
       "eventType": "add-parameter",
       "eventData": {
-        "id": "parameter1",
+        "id": "parametere1",
         "new_val": "Hluk na výhybce"
       },
       "timeStamp": 1661412782000
@@ -194,7 +154,7 @@
       "initiator": "Uživatel",
       "eventType": "edit-parameter",
       "eventData": {
-        "id": "parameter1",
+        "id": "parametere1",
         "old_val": "Hluk na výhybce",
         "new_val": "Hluk"
       },
@@ -205,7 +165,7 @@
       "initiator": "Uživatel",
       "eventType": "del-parameter",
       "eventData": {
-        "id": "parameter1"
+        "id": "parametere1"
       },
       "timeStamp": 1661412782000
     },
@@ -294,61 +254,151 @@
       "id": "IDKB_ASDASD_0",
       "cols": [
         {
-          "id": 1,
           "timeStamp": 1661412782000,
-          "parameter1": 0.11,
-          "parameter2": 0.21,
-          "parameter3": 0.35,
-          "result": 0.35
+          "result":{
+            "id":"parameter3",
+            "value": 0.35
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.11
+            },
+            {
+              "id":"parameter2",
+              "value": 0.21
+            },
+            {
+              "id":"parameter3",
+              "value": 0.35
+            }
+          ]
         },
         {
-          "id": 2,
           "timeStamp": 1661499182000,
-          "parameter1": 0.23,
-          "parameter2": 0.37,
-          "parameter3": 0.43,
-          "result": 0.43
+          "result":{
+            "id":"parameter3",
+            "value": 0.43
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.23
+            },
+            {
+              "id":"parameter2",
+              "value": 0.37
+            },
+            {
+              "id":"parameter3",
+              "value": 0.43
+            }
+          ]
         },
-
         {
-          "id": 3,
           "timeStamp": 1661585582000,
-          "parameter1": 0.35,
-          "parameter2": 0.45,
-          "parameter3": 0.54,
-          "result": 0.54
+          "result":{
+            "id":"parameter3",
+            "value": 0.54
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.35
+            },
+            {
+              "id":"parameter2",
+              "value": 0.45
+            },
+            {
+              "id":"parameter3",
+              "value": 0.54
+            }
+          ]
         },
         {
-          "id": 4,
           "timeStamp": 1661671982000,
-          "parameter1": 0.42,
-          "parameter2": 0.52,
-          "parameter3": 0.63,
-          "result": 0.63
+          "result":{
+            "id":"parameter3",
+            "value": 0.63
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.42
+            },
+            {
+              "id":"parameter2",
+              "value": 0.52
+            },
+            {
+              "id":"parameter3",
+              "value": 0.63
+            }
+          ]
         },
         {
-          "id": 5,
           "timeStamp": 1661758382000,
-          "parameter1": 0.51,
-          "parameter2": 0.69,
-          "parameter3": 0.72,
-          "result": 0.72
+          "result":{
+            "id":"parameter2",
+            "value": 0.72
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.51
+            },
+            {
+              "id":"parameter2",
+              "value": 0.72
+            },
+            {
+              "id":"parameter3",
+              "value": 0.52
+            }
+          ]
         },
         {
-          "id": 6,
           "timeStamp": 1661844782000,
-          "parameter1": 0.6,
-          "parameter2": 0.78,
-          "parameter3": 0.82,
-          "result": 0.82
+          "result":{
+            "id":"parameter2",
+            "value": 0.88
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.6
+            },
+            {
+              "id":"parameter2",
+              "value": 0.88
+            },
+            {
+              "id":"parameter3",
+              "value": 0.82
+            }
+          ]
         },
         {
-          "id": 7,
           "timeStamp": 1661931182000,
-          "parameter1": 0.78,
-          "parameter2": 0.85,
-          "parameter3": 0.95,
-          "result": 0.95
+          "result":{
+            "id":"parameter3",
+            "value": 0.95
+          },
+          "parametersOfTheDay":[
+            {
+              "id":"parameter1",
+              "value": 0.78
+            },
+            {
+              "id":"parameter2",
+              "value": 0.85
+            },
+            {
+              "id":"parameter3",
+              "value": 0.95
+            }
+          ]
         }
       ]
     }
